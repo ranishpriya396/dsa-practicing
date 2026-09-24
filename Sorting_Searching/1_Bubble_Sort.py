@@ -6,5 +6,6 @@ def bubble_sort(nums):
             if nums[j]> nums[j+1]:
                 nums[j],nums[j+1] = nums[j+1], nums[j]
                 swapped = True 
-        
+    return nums
+print(bubble_sort(nums))
 

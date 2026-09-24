@@ -27,26 +27,10 @@ A structured repository dedicated to mastering Data Structures and Algorithms (D
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Merge Sorted Array
 
----
-
-## ⏱️ Daily 60-Minute Routine
-
-```text
-┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
-│       10 MINS: PLAN          │        35 MINS: CODE         │        15 MINS: PUSH         │
-│  Read problem & map approach │ Write clean solution alone   │ Optimize, comment, & commit  │
-└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
-```
-
-1. **Understand (10 mins):** Pick the daily problem. Work out the logic on paper before typing.
-2. **Execute (35 mins):** Code the solution. If stuck for more than 25 minutes, review editorial hints.
-3. **Document (15 mins):** Clean the variable names, add time/space complexity notes, and push to GitHub.
-
----
-
 ## 📂 Repository Structure
 
 ```text
+|---00-Basic Questions
 ├── 01-Sorting/
 │   ├── SelectionSort/
 │   ├── InsertionSort/
@@ -58,6 +42,3 @@ A structured repository dedicated to mastering Data Structures and Algorithms (D
     └── 0121-Best-Time-To-Buy-Sell-Stock/
 ```
 
-## 📈 Progress Tracker
-| Day 1 | Selection Sort | Easy | [Link](./01-Sorting/SelectionSort/) | ⏳ Learning |
-| Day 2 | Insertion Sort | Easy | [Link](./01-Sorting/InsertionSort/) | 🛑 Todo |
